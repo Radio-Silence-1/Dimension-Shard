@@ -1,0 +1,9 @@
+{
+	"name": "dimensioncore",
+	"displayName": "Dimension Shard Core",
+	"author":"Radio Silence",
+	"description": "A remake of the Dimension Shard core spawner.",
+	"version": "1.0",
+	"minGameVersion": 136,
+	"hidden": false
+}
